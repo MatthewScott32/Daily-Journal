@@ -1,0 +1,23 @@
+.formBody {
+    display: flex;
+    flex-direction: column;
+}
+
+#journalDate {
+    width: 232px;
+    border: 1px darkgray solid;
+    margin-bottom: 1px;
+}
+
+#conceptsCovered {
+    width: 233px;
+    border: 1px darkgray solid;
+    margin-bottom: 1px;
+}
+
+#journalEntry {
+    width: 228px;
+    height: 15px;
+    border: 1.5px darkgray solid;
+    margin-bottom: 1px;
+}
